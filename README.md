@@ -13,12 +13,17 @@ A from scratch implementation of machine learning, deep learning, and a few deto
 - [ ] Lasso Regression
 - [ ] Elastic Net
 - [ ] Polynomial Regression
+- [ ] k-Nearest Neighbors Regressor (kNN)
+- [ ] Support Vector Machine Regressor (SVM)
+- [ ] Decision Tree Regressor
+- [ ] Random Forest Regressor
+- [ ] XGBoost Regressor
 
 **Classification**
 - [x] [Logistic Regression](./ML%20from%20Scratch/Supervised%20Learning/2_logistic_regression.py)
-- [ ] k-Nearest Neighbors (kNN)
+- [ ] k-Nearest Neighbors Classifier (kNN)
 - [ ] Naive Bayes
-- [ ] Support Vector Machine (SVM)
+- [ ] Support Vector Machine Classifier (SVM)
 - [ ] Decision Tree
 - [ ] Random Forest
 - [ ] Gradient Boosting (from scratch)
