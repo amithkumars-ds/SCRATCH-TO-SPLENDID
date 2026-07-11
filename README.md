@@ -21,7 +21,7 @@ A from scratch implementation of machine learning, deep learning, and a few deto
 
 **Classification**
 - [x] [Logistic Regression](./ML%20from%20Scratch/Supervised%20Learning/2_logistic_regression.py)
-- [ ] k-Nearest Neighbors Classifier (kNN)
+- [x] [k-Nearest Neighbors Classifier (kNN)](./ML%20from%20Scratch/Supervised%20Learning/3_knn_classifier.py)
 - [ ] Naive Bayes
 - [ ] Support Vector Machine Classifier (SVM)
 - [ ] Decision Tree
