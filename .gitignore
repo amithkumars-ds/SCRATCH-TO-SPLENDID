@@ -1,2 +1,13 @@
 # rough pad
 rough.py
+
+# local vscode settings
+.vscode/
+
+# manim animations
+media/
+
+# cache files
+__pycache__/
+*.py[cod]
+*$py.class
